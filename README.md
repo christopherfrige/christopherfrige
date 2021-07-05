@@ -10,7 +10,7 @@
 
 * 💻 Python | C/C++
 * 🌐 Javascript | HTML | CSS  
-* 🔧 VSCode | Git
+* 🔧 VSCode | Git | GitHub Actions
 * 📦 Docker | Kubernetes
 <br/>
 
