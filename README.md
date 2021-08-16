@@ -11,6 +11,7 @@
 * 💻 Python | C/C++
 * 🌐 Javascript | HTML | CSS  
 * 🔧 VSCode | Git | GitHub Actions
+* ☁  AWS S3 | AWS Lambda
 * 📦 Docker | Kubernetes
 <br/>
 
