@@ -2,7 +2,7 @@
 
 ### 🤵🏻 About me
 
-* 🎓 I'm currently in the third period of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP. 
+* 🎓 I'm currently in the fourth semester of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP. 
 * 💼 Backend Developer.
 * 🌱 Improving everyday.
 
