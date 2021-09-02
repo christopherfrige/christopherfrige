@@ -9,9 +9,10 @@
 ### 👓 Tech Stacks
 
 * 💻 Python | C/C++
-* 🌐 Javascript | HTML | CSS  
+* 🌐 Javascript | HTML | CSS
+* 🛢 Amazon DynamoDB
 * 🔧 VSCode | Git | GitHub Actions
-* ☁  AWS S3 | AWS Lambda
+* ☁  AWS Lambda | AWS S3
 * 📦 Docker | Kubernetes
 <br/>
 
