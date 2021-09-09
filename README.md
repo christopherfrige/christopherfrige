@@ -16,11 +16,8 @@
 * 📦 Docker | Kubernetes
 <br/>
 
-![Christopher Frige's github stats](https://github-readme-stats.vercel.app/api?username=christopherfrige&show_icons=true&theme=dracula)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfrige&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Christopher Frige's github stats](https://github-readme-stats.vercel.app/api?username=christopherfrige&show_icons=true&theme=dracula)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfrige&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-
 ### 🤝🏻 Connect with me
 <br/>
 
