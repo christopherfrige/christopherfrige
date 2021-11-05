@@ -10,8 +10,8 @@
 
 * 💻 Python | C/C++
 * 🌐 Javascript | HTML | CSS
-* 🛢 Amazon DynamoDB
-* 🔧 VSCode | Git | GitHub Actions
+* 🛢 PostgreSQL | Amazon DynamoDB
+* 🔧 VSCode | Git | GitLab | GitHub Actions
 * ☁  AWS Lambda | AWS S3
 * 📦 Docker | Kubernetes
 <br/>
