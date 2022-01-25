@@ -8,12 +8,14 @@
 
 ### 👓 Tech Stacks
 
-* 💻 Python | C/C++
+* 💻 Python (Flask)
 * 🌐 Javascript | HTML | CSS
-* 🛢 PostgreSQL | Amazon DynamoDB
-* 🔧 VSCode | Git | GitLab | GitHub Actions
-* ☁  AWS Lambda | AWS S3
-* 📦 Docker | Kubernetes
+* 🛢 PostgreSQL
+* ⚛️ REST APIs
+* ☁  AWS Lambda | AWS S3 | Amazon DynamoDB
+* 🔁 CI/CD Pipelines
+* 📦 Docker | Docker Compose | Kubernetes
+* 🔧 Git | GitLab | GitHub Actions
 <br/>
 
 ![Christopher Frige's github stats](https://github-readme-stats.vercel.app/api?username=christopherfrige&show_icons=true&theme=dracula)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfrige&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
