@@ -14,16 +14,10 @@
 * ⚛️ REST APIs
 * ☁  AWS Lambda | AWS S3 | Amazon DynamoDB
 * 🔁 CI/CD Pipelines
-* 📦 Docker | Docker Compose | Kubernetes
+* 📦 Docker | Docker Compose
 * 🔧 Git | GitLab | GitHub Actions
-<br/>
 
-![Christopher Frige's github stats](https://github-readme-stats.vercel.app/api?username=christopherfrige&show_icons=true&theme=dracula)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfrige&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 ### 🤝🏻 Connect with me
-<br/>
-
-<center>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.frige@gmail.com "Send me an email!")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopherfrige/ "Visit me on LinkedIn")
