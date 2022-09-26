@@ -7,14 +7,15 @@
 
 ### 👓 Tech Stacks
 
-* 💻 Python (Flask)
+* 💻 Python (Django, FastAPI)
 * 🌐 Javascript | HTML | CSS
 * 🛢 PostgreSQL
-* ⚛️ REST APIs
-* ☁  AWS Lambda | AWS S3 | Amazon DynamoDB
-* 🔁 CI/CD Pipelines
+* ⚛️ APIs, REST APIs
+* 🤖 Unit Tests
+* ☁  AWS Lambda | AWS EC2 | AWS RDS
 * 📦 Docker | Docker Compose
-* 🔧 Git | GitLab | GitHub Actions
+* 🔁 CI/CD Pipelines
+* 🔧 Git | GitHub | GitHub Actions
 
 ### 🤝🏻 Connect with me
 
