@@ -2,7 +2,7 @@
 
 ### 🤵🏻 About me
 
-* 🎓 I'm currently in the third year of Bachelor's Degree in Interdisciplinary Science and Technology at UNIFESP. 
+* 🎓 I'm currently in the third year of Bachelor's Degree in Computer Science at UNIFESP (Federal University of São Paulo). 
 * 💼 Backend Developer.
 
 ### 👓 Tech Stacks
